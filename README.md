@@ -1,2 +1,2 @@
-# device-ezviz
-OpenIPC for EZVIZ
+# OpenIPC for EZVIZ
+
